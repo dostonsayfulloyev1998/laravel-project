@@ -11,6 +11,8 @@
 <body>
 
 
+<h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolore dolores eius, ex in maiores natus neque nisi placeat provident, quos unde veritatis voluptates! Amet at deleniti minima optio quibusdam?</h1>
+
 <table class="table table-striped">
       <thead>
           <tr>
@@ -52,6 +54,8 @@
                 <div class="card-body">
                     <h2>{{$item['name']}}</h2>
                     <h3>{{$item['price']}}</h3>
+
+
                 </div>
             </div>
         </div>
